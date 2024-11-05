@@ -3,14 +3,14 @@ This application is a comprehensive car rental system designed to efficiently ma
 
 
 ##💻 Technologies Used
-ASP.NET Core 8
-ASP.NET Core Web API
-Onion Architecture
-Repository Design Pattern
-Mediator Design Pattern
-JSON Web Token
-Fluent Validation
-Pivot Table
+* Asp.Net Core 8
+* Asp.Net Core WebApi
+* Onion Architecture
+* Repository Design Pattern
+* Mediator Design Pattern
+* Json Web Token
+* Fluent Validation
+* Pivot Table
 
 
 
