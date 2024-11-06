@@ -11,7 +11,7 @@ This application is a comprehensive car rental system designed to efficiently ma
 * Json Web Token
 * Fluent Validation
 * Pivot Table
-
+* SignalR
 
 
 
